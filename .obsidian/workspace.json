@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Characters/Celine the Ranger.md",
+                "file": "Player Characters/Lexi the Rogue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Celine the Ranger"
+              "title": "Lexi the Rogue"
             }
           }
         ],
@@ -282,13 +282,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "008b36e27c5bb175",
+  "active": "4897900ad1c3c308",
   "lastOpenFiles": [
-    "Lexi.md",
+    "Player Characters/Celine the Ranger.md",
+    "Player Characters/Lexi the Rogue.md",
     "Player Characters/Euler the Wizard.md",
     "Player Characters/Puumba the Barbarian.md",
     "Player Characters/Dragonslayer the Fighter.md",
-    "Player Characters/Celine the Ranger.md",
     "Player Characters/Theodore the Paladin.md",
     "Game Summaries/Prior to Nov 2025.md",
     "Welcome.md",
