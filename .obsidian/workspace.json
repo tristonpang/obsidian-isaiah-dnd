@@ -102,10 +102,15 @@
             "id": "1868ce5987ea7b1c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           }
         ]
@@ -265,7 +270,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a426817c90fb4149",
+  "active": "1868ce5987ea7b1c",
   "lastOpenFiles": [
     "Player Characters/Euler the Wizard.md",
     "Player Characters/Puumba the Barbarian.md",
