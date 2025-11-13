@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "Euler the Wizard"
             }
+          },
+          {
+            "id": "008b36e27c5bb175",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player Characters/Celine the Ranger.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Celine the Ranger"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "edcd51deec190f67",
@@ -104,13 +118,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-git/data.json",
-                "bFile": ".obsidian/plugins/obsidian-git/data.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: data.json"
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -166,8 +179,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -270,12 +282,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1868ce5987ea7b1c",
+  "active": "008b36e27c5bb175",
   "lastOpenFiles": [
+    "Lexi.md",
     "Player Characters/Euler the Wizard.md",
     "Player Characters/Puumba the Barbarian.md",
     "Player Characters/Dragonslayer the Fighter.md",
-    "Player Characters/Celine.md",
+    "Player Characters/Celine the Ranger.md",
     "Player Characters/Theodore the Paladin.md",
     "Game Summaries/Prior to Nov 2025.md",
     "Welcome.md",
