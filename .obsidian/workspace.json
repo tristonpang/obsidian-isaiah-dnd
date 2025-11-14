@@ -27,103 +27,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Characters/Puumba the Barbarian.md",
+                "file": "Player Characters/Dragonkonqueror the Fighter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Puumba the Barbarian"
+              "title": "Dragonkonqueror the Fighter"
             }
           },
           {
-            "id": "b2e91448eecbc13a",
+            "id": "410180b7e4eee9f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Characters/Theodore the Paladin.md",
+                "file": "DM Notes & Helpers/Overworld Travel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Theodore the Paladin"
-            }
-          },
-          {
-            "id": "c475dcc26c802b44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player Characters/Celine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Celine"
-            }
-          },
-          {
-            "id": "9856ff6ab2f273eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player Characters/Euler the Wizard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Euler the Wizard"
-            }
-          },
-          {
-            "id": "72ba640f54a175e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player Characters/Euler the Wizard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Euler the Wizard"
-            }
-          },
-          {
-            "id": "008b36e27c5bb175",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player Characters/Lexi the Rogue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lexi the Rogue"
+              "title": "Overworld Travel"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       },
       {
-        "id": "edcd51deec190f67",
+        "id": "120deb7570399ce5",
         "type": "tabs",
         "children": [
           {
-            "id": "1868ce5987ea7b1c",
+            "id": "492553a46b757d77",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -262,6 +202,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "a6ff312f633eabb3",
+            "type": "leaf",
+            "state": {
+              "type": "image-picker-view",
+              "state": {},
+              "icon": "image",
+              "title": "Image Picker"
+            }
           }
         ],
         "currentTab": 4
@@ -279,17 +229,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "image-picker:Open Image Picker": false
     }
   },
-  "active": "4897900ad1c3c308",
+  "active": "410180b7e4eee9f2",
   "lastOpenFiles": [
-    "Player Characters/Celine the Ranger.md",
-    "Player Characters/Lexi the Rogue.md",
-    "Player Characters/Euler the Wizard.md",
-    "Player Characters/Puumba the Barbarian.md",
-    "Player Characters/Dragonslayer the Fighter.md",
+    "Pasted image 20251114165027.png",
+    "Player Characters/Dragonkonqueror the Fighter.md",
+    "DM Notes & Helpers/Overworld Travel.md",
+    "DM Notes & Helpers",
+    "Campaigns/Lost Mines of Phandelver",
+    "Campaigns",
+    "Player Characters/Puumba the Fighter.md",
     "Player Characters/Theodore the Paladin.md",
+    "Player Characters/Euler the Wizard.md",
+    "Player Characters/Lexi the Rogue.md",
+    "Player Characters/Celine the Ranger.md",
     "Game Summaries/Prior to Nov 2025.md",
     "Welcome.md",
     "Player Characters",
