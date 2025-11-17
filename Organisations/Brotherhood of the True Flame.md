@@ -1,0 +1,1 @@
+The Brotherhood of the True Flame is an ancient Calishite order devoted to the study of elemental fire, breath discipline, and draconic mysticism. Older than most kingdoms, they believe that fire is not merely destructive, but a sacred force symbolizing the will of the soul.

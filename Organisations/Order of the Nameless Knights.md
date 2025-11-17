@@ -1,0 +1,3 @@
+The Order of Nameless Knights is a hidden brotherhood that operates in the shadows of Calimshan and the wider Sword Coast. Formed centuries ago to protect the last surviving heirs of noble houses destroyed by political purges, assassins, and rival power blocs, the Order exists without sigils, without banners, and without recorded names.
+
+Every Knight surrenders their identity to become a guardian of others. Their philosophy is simple: “A name can be killed. A purpose cannot.”
