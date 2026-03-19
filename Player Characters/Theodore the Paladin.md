@@ -1,6 +1,6 @@
-_A paladin whose oath is one of service, prevention, and the compassionate mending of body and soul._
+## 🌿 **Core Theme**
 
-## 🎓 **Core Concept**
+> _“You are not called to save everyone. You are called to love faithfully where you are.”_
 
 Theodore is driven not by glory or divine mandate alone, but by **a healer’s duty**—a blend of paladin discipline and field medic pragmatism. He sees adventuring as a way to bring healing where institutions cannot reach.
 
@@ -8,96 +8,135 @@ Theodore is driven not by glory or divine mandate alone, but by **a healer’s d
 
 # 🔮 **EXTENDED BACKSTORY OPTIONS**
 
-### ## **1. Apprenticeship in the Order of the Scalpel & Shield**
+## **The Boy Who Couldn’t Save Everyone**
 
-Before taking his oath, Theodore trained under an order of paladins who combined divine magic with surgical knowledge. They taught battlefield triage, anatomy of mortal and monstrous creatures, and the ethics of intervention.
+Theodore grew up in a small village that was struck by a mysterious illness—something between plague and curse. People weakened slowly, and no healer who came through could fully stop it.
 
-**Possible details:**
+As a boy, Theodore helped however he could:
 
-- He learned to diagnose injuries with touch and trained to “feel” life energy as a magical pulse.
-    
-- His mentor, **Serena Halewell**, disappeared years ago investigating an outbreak of a magical wasting disease.
-    
-- Theodore carries her old field medic’s satchel filled with alchemical poultices and handwritten notes.
-    
+- Carrying water
 
-### ## **2. Origin in a Village Struck by Plague**
+- Cleaning wounds
 
-As a child, Theodore lived through a devastating plague—maybe a magical corruption, a curse, or the **Creeping Rot** spread by undead incursions. He survived thanks to traveling healers.
+- Sitting with the dying
 
-This sparked his desire to make sure no one else felt powerless in the face of suffering.
+He watched healers work—careful, precise, disciplined. And he made a quiet promise:
 
-### ## **3. Chosen (Gently) by a Healing Deity**
+> _“If I learn enough… if I do everything right… maybe next time, no one has to die.”_
 
-You can tie Theodore to:
+## **The Defining Failure**
 
-- **Lathander** (renewal & vitality)
-    
-- **Ilmater** (compassion & endurance)
-    
-- **Bahamut** (protection & justice)
-    
+One day, a traveling healer chose Theodore to assist in treating a critically ill child. The healer gave him simple instructions:
 
-Instead of a dramatic calling, Theodore received a **quiet nudge**—a dream of hands glowing with gentle light, or waking to find a dying animal healed by his touch.
+> “Hold her steady. That is enough.”
+
+But Theodore noticed something:
+
+- The bandage placement wasn’t perfect
+
+- The herbs seemed slightly off
+
+- The healer looked tired
+
+
+So Theodore hesitated… then adjusted things himself. 
+
+It wasn’t a terrible mistake—but it delayed the treatment.
+
+The child didn’t make it.
 
 ---
 
+## **The Lie He Learned**
+
+From that moment, Theodore carried a belief:
+
+> _“If I had done everything perfectly… she would still be alive.”_
+
+So he became:
+
+- Extremely precise
+
+- Deeply responsible
+
+- Quietly anxious
+
+- Unable to forgive himself
+
+
+---
+
+## **The Calling (A Gentle One)**
+
+Years later, as Theodore trained, he expected a divine calling to come as a command:
+
+> “Be perfect. Save them all.”
+
+Instead, what he received was something different.
+
+While tending to a dying traveler, exhausted and unsure, he whispered:
+
+> “I don’t know if I’m doing this right…”
+
+And for the first time, he felt a presence—not correcting him, but steadying him.
+
+A quiet truth settled in his heart:
+
+> _“You are not the one who saves. You are the one who serves.”_
+
+That was the moment he became a paladin.
+
+---
 # 🩺 **GROWTH ARCS (MEDICAL-THEMED)**
 
-## ◆ **ARC 1: The Ethical Healer**
+## ## ◆ **ARC: The Weight He Cannot Carry**
 
-Theodore faces dilemmas familiar to a medical student:
+### **Stage 1 – Over-Responsibility**
 
-- Save one critically injured NPC or many lightly injured ones?
+Theodore:
+
+- Tries to save _everyone_
     
-- Break a sacred oath to cure a forbidden disease?
+- Blames himself for every loss
     
-- Administer a painful cure without consent to prevent a greater tragedy?
-    
-
-**Potential Crisis:**  
-A magical poison spreads through a town. Theodore finds a cure, but needs an ingredient from a sapient creature whose death would save many lives. What does he choose?
-
----
-
-## ◆ **ARC 2: The Surgeon of Souls**
-
-Theodore learns that healing isn’t merely physical. As he grows, he gains insight into:
-
-- Removing curses like “surgery on the soul”
-    
-- Detecting emotional trauma or magical fear as if diagnosing psychological wounds
-    
-- Using divine magic to “reset” spiritual fractures
+- Overextends and burns out
     
 
-**Milestone Ability/Flavor:**
 
-- Theodore gains a unique Lay on Hands variant that can stabilize a dying ally _and_ grant them a vision of hope or clarity.
+### **Stage 2 – The Breaking Point**
+
+Create a moment where:
+
+- Multiple people need help at once
+    
+- He cannot possibly save them all
     
 
----
+No matter what he does… someone is lost.
 
-## ◆ **ARC 3: The Lost Mentor**
+Let him sit in that.
 
-Serena Halewell resurfaces—infected by a powerful supernatural pathogen or curse she sought to study.
 
-She may be:
+### **Stage 3 – Truth Through Another Character**
 
-- A plagued antagonist whose mind is slipping
+Introduce an NPC (mentor, cleric, or even a child) who tells him something like:
+
+> “You stayed with them. That mattered.”
+
+or
+
+> “You think you failed because they died. I think you succeeded because they weren’t alone.”
+
+
+### **Stage 4 – Redefining Success**
+
+Theodore begins to realize:
+
+- Healing ≠ controlling outcomes
     
-- A tragic NPC needing Theodore’s intervention
+- Success ≠ saving everyone
     
-- Patient Zero of a magical disease
-    
-
-This arc lets Theodore confront the limits of:
-
-- Cure spells vs. diseases of extraplanar origin
-    
-- Emotional ties
-    
-- The ethics of experimentation and sacrifice
+- Faithfulness > perfection
     
 
 ---
