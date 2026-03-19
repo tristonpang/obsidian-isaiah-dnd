@@ -117,7 +117,7 @@ Possibilities:
 - A **sealed power beneath Calimport**
 - A **curse disguised as legacy**
 
-### Key Plot Point - Truth & Betrayal
+### 🗝️ Key Plot Point - Truth & Betrayal
 
 > House Vaelith didn’t destroy House Azarel.  
 > They tried to **stop a ritual** that went wrong.
@@ -168,7 +168,7 @@ Choose one (or combine):
 - Identity crisis
 - Anger at mentors
 
->[!note] Key Plot Point should be revealed here
+>[!note] [[#🗝️ Key Plot Point - Truth & Betrayal|Key Plot Point]] should be revealed here
 
 ### **Phase 4 — Embrace or Reject**
 
