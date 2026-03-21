@@ -23,10 +23,6 @@ Though I left to walk my own path, the Order watches from afar. And if ever I ca
 > [!NOTE] DM Plot Notes
 > The Order is containing Pumbaa, not just helping him.
 
-
-
-
-
 #### [[Brotherhood of the True Flame]] (ancestral connection)
 
 My family—House Azarel—had ancestral ties to this Brotherhood. Though rarely spoken of openly, their scrolls and rituals were kept in hidden chambers beneath our estate. Some say members of the Brotherhood carry draconic blood; others whisper that their founders were taught directly by fire dragons in the distant past. Their teachings include controlled breathwork, fluid martial movement, and meditative flame-guiding techniques—echoes of which shaped my own firebending style.
