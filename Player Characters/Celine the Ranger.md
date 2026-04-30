@@ -142,7 +142,37 @@ Whether or not her full memories return, Celine arrives at settled identity — 
 > _"I spent three years trying to become someone worth knowing. It turns out I was known before I started."_
 
 ---
+Nature: The Failure of Performance
 
+Celine's point break is the moment her carefully constructed identity — _I am what I do, I earn my worth through righteous action_ — is confronted with something it cannot process: a situation where doing everything right is not enough, or where the right thing to do is not clear, or where the cost of acting from her earned-worth theology is paid by someone other than herself.
+
+It does not look like fury. It looks like a woman who has suddenly lost the floor beneath her feet and is still moving because stopping is not something her body knows how to do.
+
+### Trigger Conditions
+
+**Condition One — Her Competence Fails Someone Innocent** Not a tactical error. Not a combat loss. The specific trigger is a moment where Celine did everything correctly — tracked the right target, made the right call, upheld the right principle — and an innocent person suffered for it anyway. The performance was perfect and it was not enough. This is the crack that splits the foundation, because her entire identity is built on the premise that sufficient competence prevents loss.
+
+**Condition Two — Her Identity Is Directly Challenged** The wound condition. This can come from outside — someone who knows what the oath mark on her arm means, someone from the Ironvigil who recognises her, Vauren himself naming her by her Vigil name — or from inside, in a moment where she catches herself acting from fear rather than conviction and cannot immediately correct it. The challenge does not need to be hostile. The truth does not need to be cruel. It simply needs to be true, and it needs to land in a moment when her defences are already thinned by condition one.
+
+### What It Looks Like
+
+Celine does not break loudly. The point break does not produce tears or fury or collapse. What it produces is a kind of terrible clarity — a woman stripped of the performance moving purely on instinct, and discovering, to her own shock, that the instincts are good. That underneath the earned-worth theology is something that does not need to earn anything. Something that acts rightly not because it is keeping score but because it simply cannot do otherwise.
+
+She may push past tactical caution entirely — moving into danger she would normally calculate around, making choices that prioritise people over principles, acting with a sureness that has nothing to do with training. It is only afterward, when the adrenaline recedes, that she realises she does not know where that came from. It did not feel like performance. It felt like herself.
+
+The memory fragments are most likely to surface in the aftermath of a point break — the crack lets light in, and light reaches things that were sealed.
+
+### The Gospel Dimension
+
+Celine's point break is the first evidence, experienced rather than reasoned, that there is something beneath the performance that has value. She acted rightly when the performance framework gave her nothing to work with. That action came from somewhere. It was not earned in that moment — it simply was. This is the crack through which the gospel truth enters: _you were already this person before you had anything to prove it with._
+
+### Escalation
+
+- **Early:** Requires both conditions; the break is brief and she reassembles quickly, attributing it to adrenaline
+- **Mid:** The oath mark becomes a more active trigger as the Aureate Vigil thread surfaces; the breaks last longer and the reassembly is slower and less complete
+- **Late / Phase 3-4:** The point break transforms — it is no longer a loss of foundation but an experience of a different, truer foundation. She begins to act from it deliberately. The last version of the point break is not a break at all. It is a choice.
+
+---
 ## DM Notes
 
 > - The oath mark scar is your best tool for gradual revelation — NPCs who recognise it before Celine understands it give you controlled, dramatic information drops

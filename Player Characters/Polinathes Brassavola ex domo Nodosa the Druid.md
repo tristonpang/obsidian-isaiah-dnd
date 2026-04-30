@@ -147,7 +147,38 @@ In the greenhouse, with his sleeves rolled up and his hair loose and no one watc
 **The Ravenfolk** — The messengers who carried news of Polianthes across the provinces during his recovery. They gave him the feather cloak. The relationship between Polianthes and the Ravenfolk is older and more layered than he knows — they were present throughout his recovery, and some of them remember what he does not.
 
 ---
+### Nature: The Return of What Was Taken
 
+Polianthes' point break is not fury. It is not fire. It is the moment the sealed thing — the memories, the grief, the self that was put away in a vial to keep the boy from shattering — breaks back through the surface. The composure does not become rage. It becomes absence, and then it becomes something far older than the person he presents to the world.
+
+It is the child in the tent, still alive, still fighting, with no one to hold on to. And it is 200 years of grief that has never been allowed a name.
+
+### Trigger Conditions
+
+**Condition One — Sensory Trigger Connected to Sealed Memory** Since the vial's shattering, the memories Cestrum removed are no longer cleanly contained. They surface through the senses — amberwood, roses, rain on stone, certain melodies, the smell of blood, heat against skin, the specific quality of light in an enclosed space. Any of these, under sufficient emotional pressure, can begin to destabilise him. Alone they may produce only a moment's stillness. In combination with the second condition, they can break through entirely.
+
+**Condition Two — Helplessness in the Face of Loss** This is the wound condition. Polianthes has survived by managing his relationship with loss — staying distant enough that goodbyes, though constant, do not reach the place where his sealed grief lives. The point break is triggered when something punctures that distance: when a companion he has, despite himself, allowed close is in mortal danger and there is nothing he can do, or when he has done everything he can and it is not enough, or when the situation mirrors — even faintly — the helplessness of a child in a tent who could not save anyone.
+
+### What It Looks Like
+
+The first sign is stillness. Not his usual composed stillness — something emptier. His eyes fix on a point that is not in the room. His breathing changes. Anyone who knows him well enough will recognise this as different from his ordinary reserve.
+
+What follows depends on how deep the trigger goes. At the surface, he may simply go unreachable — present in body, absent in every meaningful sense, processing something the people around him cannot see. At full depth, the sealed memories break through without warning: the white scars become suddenly, visibly present on his skin as if lit from within; his Druidic nature surges without direction — plants in the vicinity respond, ravens gather, the natural world registers something ancient and distressed; and Polianthes himself is no longer entirely in the present moment.
+
+He is not dangerous in this state. He is devastatingly vulnerable, which is its own kind of dangerous for a man who has spent two centuries ensuring no one ever sees that.
+
+### The Gospel Dimension
+
+Polianthes' point break is the wound made visible. The thing Cestrum hid to protect him is exactly the thing that needs to be witnessed and received if he is ever going to be whole. The party seeing him in this state — not the refined noble, not the composed observer, but the boy underneath — is the necessary precondition for the arc's gospel movement: that he was known and loved in his most broken state, and that being known in that state by people who stay is what allows him to begin receiving the truth about who he has always been to his family.
+
+The crack of healing begins when a party member stays with him through it. Does not fix it. Does not flinch. Simply stays.
+
+### Escalation
+
+- **Early:** Sensory triggers produce moments of unreachability; full point break requires both conditions and is rare
+- **Mid / Post-vial shattering:** Triggers become more accessible as the sealed memories surface more frequently; the gap between the surface trigger and the full break narrows
+- **Late / Phase 3-4:** The point break begins to change in character — as the truth of his past is revealed and received, what breaks through is no longer only grief. There is also, increasingly, something that resembles the boy his family fought so hard to keep alive. The distance collapses not into collapse but into presence. He begins, slowly, to let people in before the crisis forces it.
+---
 ## DM Notes
 
 > - The vial's shattering is your primary mechanism for memory return — use sensory triggers deliberately: amberwood, roses, rain on stone, a particular melody, the smell of blood mixed with greenhouse soil

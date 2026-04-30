@@ -127,7 +127,49 @@ Zaptos arrives — not at a destination, but at a direction. He knows what he is
 > _"I was always going to end up here. I just took the scenic route."_
 
 ---
+Nature: The Joke That Stops Being Funny
 
+Zaptos' limit break is the moment the irreverence runs out. Not because something has made him angry — anger is too clean and too committed an emotion for where Zaptos usually lives. It is the moment the situation in front of him is so real, so immediate, so specifically about people he has quietly and against his better judgement come to care about, that the performance of not-caring simply has no fuel left to run on.
+
+The joke dies mid-sentence. What is left is a wizard who, it turns out, has been paying very close attention all along.
+
+### Trigger Conditions
+
+**Condition One — Someone He Has Pretended Not To Care About Is In Genuine Peril** Zaptos does not form attachments dramatically or openly. He forms them sideways — through repeated presence, through the joke that lands at exactly the right moment, through showing up without being asked. By the time he has genuinely bonded with a party member, he has done so without ceremony or acknowledgement, which means he also has not built any framework for what to do when that person is in danger. The limit break is triggered when the danger is real enough that the reflex to deflect it with humour simply does not fire. The situation is too serious for the performance to reach it.
+
+**Condition Two — Ray of Frost Is Not Enough And He Knows It** This is the wound condition. The limit break ignites specifically when Zaptos reaches — reflexively, habitually — for his cantrip, and knows with complete clarity before he casts it that it will not be sufficient. That this moment requires more than the one thing he has committed to. That he has other spells, real spells, spells he has never fully reached for because reaching for them would mean admitting he was trying. The moment he must choose between his safety blanket and the people in front of him is the moment everything changes.
+
+### What It Looks Like
+
+The comedy stops. This alone is alarming to anyone who knows him — Zaptos without a quip is a weather event, a signal that something has shifted at a level below his usual operating surface. He goes very still for a moment in the way of someone who has just made a decision they cannot take back.
+
+And then he reaches for something he has never reached for in front of anyone.
+
+Whatever spell he produces in this state is not reflexive and is not accidental. It is the first fully intentional magical act Zaptos has performed in recent memory — chosen, committed to, and aimed with a precision that reveals exactly how much he has been holding back. The casual affect is gone. The slight theatrical flourish he usually applies even to Ray of Frost is gone. What remains is a wizard operating at something close to his actual capacity, and it is considerably more than anyone — including Zaptos — has seen before.
+
+He may not fully remember choosing it afterward. Or he may remember it with a clarity that is its own kind of uncomfortable.
+
+### The Gospel Dimension
+
+Zaptos' limit break is the first crack in the fiction that he does not care, does not commit, does not have a direction. He cares. He has been caring quietly and without acknowledgement for longer than he would admit. And in the moment the cantrip is not enough, he discovers that he has more — that the gifts he has been treating as background noise are real and present and available, and that they were always going to show up eventually in exactly the kind of moment that mattered.
+
+The gospel truth his limit break carries is this: _you were not made for the scenic route. You were made for this. You have been made for this the entire time you were pretending otherwise._
+
+He will not receive that truth immediately. But the limit break plants it somewhere he cannot ignore.
+
+### The Ray of Frost — After
+
+The cantrip does not disappear from his repertoire after the limit break. He still reaches for it. He probably always will. But something in his relationship to it shifts — it is no longer purely the safety blanket, the one small commitment he allowed himself. It becomes something more like a signature. The thing that is specifically, recognisably his. He uses it still, but now sometimes with full awareness of what he is doing — and occasionally, in exactly the right moment, with a precision and intentionality that is almost artistic.
+
+The cantrip has not changed. He has.
+
+### Escalation
+
+- **Early:** Limit break requires both conditions simultaneously; the spell he produces is powerful but frightening to him — he does not reach for it again immediately
+- **Mid:** The threshold lowers as bonds deepen and the party becomes genuinely his; the wound condition becomes easier to trigger as he begins, unconsciously, to want more than Ray of Frost can give
+- **Late / Phase 4-5:** The limit break transforms entirely — it is no longer a loss of his usual self but a full expression of his actual self. The chaos and the calling finally occupy the same space. He is not performing ease anymore. He is simply, finally, here on purpose.
+
+---
 ## DM Notes
 
 > - Zaptos' comedy is a feature, not a distraction from his arc — the best moments will be ones where the joke and the truth occupy the same sentence

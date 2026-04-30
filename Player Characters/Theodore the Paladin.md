@@ -101,11 +101,11 @@ Someone Theodore saves, stabilises, and then loses later under circumstances ent
 
 ---
 
-## The Point Break — Protective Fury
+## Limit Break — Protective Fury
 
 ### What It Is
 
-Theodore's point break is not a divine surge or a spiritual awakening. It is something rawer and more human than that — the moment his careful, managed, over-responsible self is stripped away entirely by the one thing his system of control cannot process: watching the people he loves move toward death while he still has breath in his body.
+Theodore's limit break is not a divine surge or a spiritual awakening. It is something rawer and more human than that — the moment his careful, managed, over-responsible self is stripped away entirely by the one thing his system of control cannot process: watching the people he loves move toward death while he still has breath in his body.
 
 Everything he normally is — precise, measured, methodical, quietly anxious — collapses. What remains is not rage exactly, but a state of absolute singular focus. The threat. The people between him and the threat. Nothing else exists. The internal accounting he runs constantly — _am I doing enough, is this right, what if I fail_ — goes completely silent. For the first time, there is no performance. No earning. No fear of inadequacy. Just movement.
 
@@ -113,7 +113,7 @@ It is, in a deep and painful irony, the freest he ever feels. And he will not re
 
 ### What Triggers It
 
-Theodore's point break requires the convergence of two specific conditions. Either alone is not enough.
+Theodore's limit break requires the convergence of two specific conditions. Either alone is not enough.
 
 **Condition One — Mortal Danger to Someone He Loves** Not danger to strangers. Not danger to himself. It must be someone the party knows, someone Theodore has sat with, patched up, argued with, broken bread with. The closer the bond, the lower the threshold. A companion at death's door will do it. A companion he has already lost once and nearly lost again will do it faster.
 
